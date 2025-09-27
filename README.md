@@ -1,6 +1,10 @@
-## Hi, nice to meet you! I’m Yuri Gabriel
+# Olá, me chamo Yuri Gabriel!
 
-<h3 style="margin-bottom: -10px;">Languages</h3>
+> Sou Desenvolvedor Full Stack e adoro transformar ideias em projetos completos. Meu objetivo é criar aplicações estáveis e intuitivas, combinando habilidades técnicas e criatividade para entregar soluções de alta qualidade.
+
+---
+
+<h3 style="margin-bottom: -10px;">Linguagens</h3>
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
