@@ -19,4 +19,4 @@
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fhostings&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielmd7x" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielmd7x&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielmd7x" /> </p>
